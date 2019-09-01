@@ -1,0 +1,4 @@
+baseURL = "http://test.birau.com/"
+languageCode = "en-us"
+title = "Hugo test"
+#theme = "ananke"
